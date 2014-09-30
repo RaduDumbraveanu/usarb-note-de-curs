@@ -9,3 +9,9 @@ Licența notelor
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.ro)
 
 Aceste note sînt puse la dispoziţie sub licența [Atribuire - Distribuire-în-condiţii-identice 4.0 Internațional (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/deed.ro).
+
+
+Cuprins
+-------
+
+[M.07.A.069 - Elemente de analiză funcțională](https://github.com/vundicind/usarb-note-de-curs/tree/master/af)
